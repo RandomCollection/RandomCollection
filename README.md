@@ -10,6 +10,12 @@
 
 **RandomCollection** offers small coding projects.
 
+# Repositories
+
+[![RandomCollection](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=RandomCollection&theme=radical)](https://github.com/RandomCollection/RandomCollection) [![randomcollection.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=randomcollection.github.io&theme=radical)](https://github.com/RandomCollection/randomcollection.github.io)
+
+[![Travelling-Salesperson-Problem-Art](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=Travelling-Salesperson-Problem-Art&theme=radical)](https://github.com/RandomCollection/Travelling-Salesperson-Problem-Art)
+
 # Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomCollection&layout=compact&theme=radical)](https://github.com/RandomCollection/github-readme-stats)
