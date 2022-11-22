@@ -24,6 +24,6 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RandomCollection&show_icons=true&theme=radical)
 
-## License
+# License
 
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
