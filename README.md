@@ -12,7 +12,7 @@
 
 # Repositories
 
-[![Credit-Risk-Modelling](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=RandomCollection&theme=radical)](https://github.com/RandomCollection/Credit-Risk-Modelling) [![RandomCollection](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=RandomCollection&theme=radical)](https://github.com/RandomCollection/RandomCollection)
+[![Credit-Risk-Modelling](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=Credit-Risk-Modelling&theme=radical)](https://github.com/RandomCollection/Credit-Risk-Modelling) [![RandomCollection](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=RandomCollection&theme=radical)](https://github.com/RandomCollection/RandomCollection)
 
 [![randomcollection.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=randomcollection.github.io&theme=radical)](https://github.com/RandomCollection/randomcollection.github.io) [![Vocabulary-Trainer](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=Vocabulary-Trainer&theme=radical)](https://github.com/RandomCollection/Vocabulary-Trainer)
 
