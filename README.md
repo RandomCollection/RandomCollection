@@ -1,30 +1,52 @@
 <div align="center">
-
-  <a href="">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-  <a href="">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
-  <a href="">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
-
+    <p>
+    <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+    </p>
 </div>
 
 # RandomCollection
 
 **RandomCollection** offers small coding projects.
 
-# Repositories
+# Featured Projects
 
-[![Credit-Risk-Modelling](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=Credit-Risk-Modelling&theme=radical)](https://github.com/RandomCollection/Credit-Risk-Modelling) [![RandomCollection](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=RandomCollection&theme=radical)](https://github.com/RandomCollection/RandomCollection)
+## 📈 Credit Risk Modelling
 
-[![randomcollection.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=randomcollection.github.io&theme=radical)](https://github.com/RandomCollection/randomcollection.github.io) [![Vocabulary-Trainer](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=Vocabulary-Trainer&theme=radical)](https://github.com/RandomCollection/Vocabulary-Trainer)
+Credit Risk Modelling is a Python library providing a curated selection of modules to perform credit risk modelling analytics.
 
-[![Travelling-Salesperson-Problem-Art](https://github-readme-stats.vercel.app/api/pin/?username=RandomCollection&repo=Travelling-Salesperson-Problem-Art&theme=radical)](https://github.com/RandomCollection/Travelling-Salesperson-Problem-Art)
+**Tech:** Pandas • Python • scikit-learn
 
-# Top Languages
+🔗 [Credit-Risk-Modelling](https://github.com/RandomCollection/Credit-Risk-Modelling)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomCollection&layout=compact&theme=radical)](https://github.com/RandomCollection/github-readme-stats)
+---
 
-# GitHub Stats Card
+## 🖥️ randomcollection.github.io
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RandomCollection&show_icons=true&theme=radical)
+RandomCollection offers curated articles about economics, finance, statistics, and coding.
+
+**Tech:** CSS • HTML • JS
+
+🔗 [randomcollection.github.io](https://github.com/RandomCollection/randomcollection.github.io)
+
+---
+
+## 🧠 Vocabulary-Trainer
+
+Mobile app for learning and practising English and Spanish vocabulary.
+
+**Tech:** Kivy • Python
+
+🔗 [Vocabulary-Trainer](https://github.com/RandomCollection/Vocabulary-Trainer)
+
+---
+
+## 🎨 Travelling Salesperson Problem Art
+
+Creative visualization of optimization algorithms.
+
+**Tech:** Matplotlib • Python • SciPy
+
+🔗 [Travelling-Salesperson-Problem-Art](https://github.com/RandomCollection/Travelling-Salesperson-Problem-Art)
 
 # License
 
